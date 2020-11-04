@@ -1,6 +1,6 @@
-## Ôpa/Hello! 👋
+## Ôpa! 👋
 
-- 🔭 Atualmente trabalhando para a Agência Win7
+- 🔭 Estou procurando estágio em React.js, React Native. :D
 - 🌱 Estudando: Javascript, React.js, Node.js e Typescript
 
 
