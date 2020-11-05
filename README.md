@@ -1,6 +1,5 @@
 ## Ôpa! 👋
 
-- 🔭 Estou procurando estágio em React.js, React Native. :D
 - 🌱 Estudando: Javascript, React.js, Node.js e Typescript
 
 
