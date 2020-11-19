@@ -1,6 +1,6 @@
 ## Ôpa! 👋
 
-- 🌱 Estudando: Javascript, React.js, Node.js e Typescript
+- 🌱 Estudando: React.js, React Native, Javascript e Typescript
 - 👋 À procura de oportunidade em aprender mais as tecnologias acima
 
 
