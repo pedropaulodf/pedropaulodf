@@ -8,7 +8,7 @@
 
 ### Veja meus últimos projetos de estudo rodando:
 
-* Desafio Onesight ([github](https://github.com/pedropaulodf/desafio-onesight)) [Ver na Vercel](https://desafio-onesight.vercel.app/)
+* Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [Ver na Vercel](https://desafio-onesight.vercel.app/)
 * Projeto final Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-projeto-final-react)) [Ver na Vercel](https://igti-frontend-projeto-final-react.vercel.app/)
 * Projeto final Bootcamp IGTI Fullstack ([github](https://github.com/pedropaulodf/igti-fullstack-projeto-final-react)) [Ver na Vercel](https://igti-fullstack-projeto-final-react.vercel.app/)
 * Projeto em VUE Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-vue-petshop))
