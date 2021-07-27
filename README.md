@@ -1,6 +1,6 @@
 ## Ôpa! 👋
 
-- 🌱 Estudando: React.js, React Native, Javascript e Typescript
+- 🌱 Estudando: React Native, React.js, Javascript e Typescript
 - 👋 À procura de oportunidade em aprender mais as tecnologias acima
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
