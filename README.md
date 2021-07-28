@@ -8,8 +8,8 @@
 
 ### Veja meus últimos projetos de estudo:
 
-#### React Native 📱
-* TJ Droid • [Projeto pessoal/porfólio] em breve na loja • ([Preview no Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1))
+#### React Native, com Expo 📱
+* TJ Droid • [Projeto pessoal/porfólio] em breve na loja • [[APK Temporária - End 25/08/21](https://bit.ly/3ycCJQu)] ([Preview no Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1))
 * NLW#Together • GamePlay ([github](https://github.com/pedropaulodf/nlw5-gameplay))
 * NLW#2 • Proffy Mobile ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
