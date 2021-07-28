@@ -14,13 +14,13 @@
 * NLW#2 • Proffy Mobile ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 #### React.js 💻
-* Projeto final Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-projeto-final-react)) [Ver na Vercel](https://igti-frontend-projeto-final-react.vercel.app/)
+* Projeto final Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-projeto-final-react)) [Ver online](https://igti-frontend-projeto-final-react.vercel.app/)
 * NLW#3 • Happy ([github](https://github.com/pedropaulodf/nlw3-omnistack-happy))
 * NLW#2 • Proffy Web ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 #### React.js, Node e MongoDB • FullStack 💻
-* Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [Ver na Vercel](https://desafio-onesight.vercel.app/)
-* Projeto final Bootcamp IGTI Fullstack ([github](https://github.com/pedropaulodf/igti-fullstack-projeto-final-react)) [Ver na Vercel](https://igti-fullstack-projeto-final-react.vercel.app/)
+* Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [Ver online](https://desafio-onesight.vercel.app/)
+* Projeto final Bootcamp IGTI Fullstack ([github](https://github.com/pedropaulodf/igti-fullstack-projeto-final-react)) [Ver online](https://igti-fullstack-projeto-final-react.vercel.app/)
 
 #### Vue 🖥️
 * Projeto em VUE Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-vue-petshop))
