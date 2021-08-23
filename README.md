@@ -1,6 +1,6 @@
 ## Ôpa! 👋
 
-- 🚀 Aluno Ignite da Rocketseat (08/2021)
+- 🚀 Aluno Ignite da Rocketseat [(08/2021)](https://passport.rocketseat.com.br/ig-essentials-01/pedropaulodf)
 - 🌱 Estudando: React Native, React.js, Javascript e Typescript
 - 👋 À procura de oportunidade em aprender mais as tecnologias acima
 
