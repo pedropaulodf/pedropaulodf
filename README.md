@@ -4,9 +4,9 @@
 - 🌱 Estudando: React Native, React.js, Javascript e Typescript
 - 👋 À procura de oportunidade em aprender mais as tecnologias acima
 
+[<img src="https://img.shields.io/badge/portfolio-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pedropaulotj@gmail.com)
-[<img src="https://img.shields.io/badge/portfolio-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 
 #### Linguagens & Cia:
 [<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](#) 
