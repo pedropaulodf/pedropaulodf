@@ -1,6 +1,6 @@
 # Ôpa! 👋
 
-- 🚀 Aluno Ignite da Rocketseat [(desde 08/2021)](https://passport.rocketseat.com.br/react-js/pedropaulodf)
+- 🚀 Aluno Ignite da Rocketseat (desde 08/2021)
 - 🌱 Estudando: React Native, React.js, Javascript e Typescript
 - 👋 À procura de oportunidade em aprender mais as tecnologias acima
 
