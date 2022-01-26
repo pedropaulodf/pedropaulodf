@@ -35,7 +35,7 @@
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](#) 
 
-## Veja meus últimos projetos de estudo:
+## Veja meus últimos projetos 2021/2022:
 
 ### 📱React Native, com Expo (Bare)
 * App TJ Droid (Expo Bare Workflow) • [Projeto pessoal] • ([Preview no Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) [Ver na loja](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
