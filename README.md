@@ -48,8 +48,9 @@
 * NLW#2 • Proffy Web ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 ### 💻 React.js com Next.js 
-* Coodesh front-end challenge 08/2021 ([github](https://github.com/pedropaulodf/coodesh-challenge)) ([figma](https://www.figma.com/file/D8LqvUJbPD4lDKKm42bqHr/Coodesh-Front-end-Challenge?node-id=0%3A1)) [Ver online](https://coodesh-front-end-challenge.vercel.app/)
+* Projeto Ig.news (Rocketseat) 01/2022 ([github](https://github.com/pedropaulodf/ignite-ignews)) [Ver online](https://ignews-pedropaulodf.vercel.app/)
 * Site institucional Quality Systems 11/2021 ([github](https://github.com/pedropaulodf/sitequalityport)) ([figma](https://www.figma.com/file/Bh8OO6OQ2R9niuzw6igtvY/Site-Quality)) [Ver online](https://sitequalityportfolio.vercel.app/)
+* Coodesh front-end challenge 08/2021 ([github](https://github.com/pedropaulodf/coodesh-challenge)) ([figma](https://www.figma.com/file/D8LqvUJbPD4lDKKm42bqHr/Coodesh-Front-end-Challenge?node-id=0%3A1)) [Ver online](https://coodesh-front-end-challenge.vercel.app/)
 
 ### 💻 React.js, Node e MongoDB • FullStack 
 * Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [Ver online](https://desafio-onesight.vercel.app/)
