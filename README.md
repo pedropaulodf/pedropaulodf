@@ -29,8 +29,6 @@
 [<img src="https://img.shields.io/badge/Photoshop-0a446b?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b" />](#)
 
 #### Conhecimentos em:
-[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](#) 
