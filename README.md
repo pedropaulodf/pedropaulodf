@@ -3,24 +3,20 @@
 - 🚀 Aluno Ignite da Rocketseat (desde 08/2021)
 - 🌱 Estudando e praticando: React Native, React.js, Javascript e Typescript
 
-[<img src="https://img.shields.io/badge/portfolio-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
+[<img src="https://img.shields.io/badge/site-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
-[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pedropaulotj@gmail.com)
 [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/pedropaulodev)
 
 #### Linguagens & Cia:
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](#) 
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](#) 
 
-#### Front-end tools:
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#) 
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />](#) 
 
-#### Mobile tools:
 [<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#) 
 [<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />](#) 
 
