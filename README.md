@@ -42,6 +42,7 @@
 * NLW#2 • Proffy Web ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 ### 💻 React.js com Next.js 
+* Projeto World Trip (Rocketseat) 03/2022 ([github](https://github.com/pedropaulodf/ignite-worldtrip)) [Ver online](https://ignite-worldtrip-one.vercel.app/)
 * Projeto dashgo. (Rocketseat) 02/2022 ([github](https://github.com/pedropaulodf/ignite-dashgo)) [Ver online](https://dashgo-pedropaulodf.vercel.app/)
 * Projeto Ig.news (Rocketseat) 01/2022 ([github](https://github.com/pedropaulodf/ignite-ignews)) [Ver online](https://ignews-pedropaulodf.vercel.app/)
 * Site institucional Quality Systems 11/2021 ([github](https://github.com/pedropaulodf/sitequalityport)) ([figma](https://www.figma.com/file/Bh8OO6OQ2R9niuzw6igtvY/Site-Quality)) [Ver online](https://sitequalityportfolio.vercel.app/)
