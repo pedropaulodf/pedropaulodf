@@ -6,29 +6,30 @@
 [<img src="https://img.shields.io/badge/site-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
 
-#### Linguagens & Cia:
+### # Linguagens & Cia:
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](#) 
+[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#) 
+[<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#) 
+
 [<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />](#) 
 
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#) 
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#) 
+[<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />](#) 
 
-[<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#) 
-[<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />](#) 
 
-#### Design Tools:
+### # Design Tools:
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Photoshop-0a446b?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b" />](#)
 
-#### Conhecimentos em:
+### # Conhecimentos em:
+[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](#) 
 
-## Veja meus últimos projetos 2021/2022:
+## Projeto recentes 2021/2022:
 
 ### 📱Apps: React Native, com Expo (Bare)
 * App TJ Droid (Expo Bare Workflow) • [Projeto pessoal] • ([Preview no Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) [Ver na loja](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
