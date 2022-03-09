@@ -5,7 +5,6 @@
 
 [<img src="https://img.shields.io/badge/site-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
-[<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/pedropaulodev)
 
 #### Linguagens & Cia:
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />](#) 
