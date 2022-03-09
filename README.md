@@ -1,7 +1,7 @@
 # Ôpa! 👋
 
 - 🚀 Aluno Ignite da Rocketseat (desde 08/2021)
-- 🌱 Estudando e praticando: React Native, React.js, Javascript e Typescript
+- 🌱 Estudando e praticando: React Native, React.js e Typescript
 
 [<img src="https://img.shields.io/badge/site-242424?style=for-the-badge&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
