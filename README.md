@@ -32,7 +32,7 @@
 # Projeto recentes 2021/2022:
 
 ### 📱Apps: React Native, com Expo (Bare)
-- [x] App TJ Droid (Expo Bare Workflow) • [Projeto pessoal] • ([Preview no Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) [Ver na loja](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
+- [x] App TJ Droid (Expo Bare Workflow) • [Projeto pessoal Open Source] • ([Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) ([github](https://github.com/pedropaulodf/tjdroid)) [Ver na loja](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
 - [x] App NLW#Together • GamePlay ([github](https://github.com/pedropaulodf/nlw5-gameplay))
 - [x] App NLW#2 • Proffy Mobile ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
