@@ -1,22 +1,19 @@
 # Ôpa! 👋
-
+  
 - [ ] 🚀 Aluno Ignite da Rocketseat (desde 08/2021)
 - [ ] 🌱 Estudando e praticando: React Native, React.js e Typescript
 
 [<img src="https://img.shields.io/badge/site-242424?style=flat&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
 
-### # Linguagens & Cia:
+### # Tech Stack:
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />](#) 
 [<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />](#) 
-
-[<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />](#) 
-
 [<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />](#) 
+[<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />](#) 
+[<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />](#) 
 
 
 ### # Design Tools:
@@ -28,6 +25,7 @@
 [<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />](#) 
+[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />](#) 
 
 # Projeto recentes 2021/2022:
 
