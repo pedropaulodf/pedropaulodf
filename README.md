@@ -27,7 +27,7 @@
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />](#) 
 
-# Projeto recentes 2021/2022:
+# Projetos recentes 2021/2022:
 
 ### 📱Apps: React Native, com Expo (Bare)
 - [x] App TJ Droid • [Projeto pessoal Open Source] • ([Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) ([github](https://github.com/pedropaulodf/tjdroid)) [Ver na loja](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
