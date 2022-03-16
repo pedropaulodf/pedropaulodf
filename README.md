@@ -30,25 +30,25 @@
 # Projetos recentes 2021/2022:
 
 ### 📱Apps: React Native, com Expo (Bare)
-- [x] App TJ Droid • [Projeto pessoal Open Source] • ([Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) ([github](https://github.com/pedropaulodf/tjdroid)) [Ver na loja](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
+- [x] App TJ Droid • [Projeto pessoal Open Source] • ([Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) ([github](https://github.com/pedropaulodf/tjdroid)) [LOJA ↗](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
 - [x] App NLW#Together • GamePlay ([github](https://github.com/pedropaulodf/nlw5-gameplay))
 - [x] App NLW#2 • Proffy Mobile ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 ### 💻 React.js 
-- [x] Projeto final Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-projeto-final-react)) [Ver online](https://igti-frontend-projeto-final-react.vercel.app/)
+- [x] Projeto final Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-projeto-final-react)) [ONLINE ↗](https://igti-frontend-projeto-final-react.vercel.app/)
 - [x] NLW#3 • Happy ([github](https://github.com/pedropaulodf/nlw3-omnistack-happy))
 - [x] NLW#2 • Proffy Web ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 ### 💻 React.js com Next.js 
-- [x] Projeto World Trip (Rocketseat) 03/2022 ([github](https://github.com/pedropaulodf/ignite-worldtrip)) [Ver online](https://ignite-worldtrip-one.vercel.app/)
-- [x] Projeto dashgo. (Rocketseat) 02/2022 ([github](https://github.com/pedropaulodf/ignite-dashgo)) [Ver online](https://dashgo-pedropaulodf.vercel.app/)
-- [x] Projeto Ig.news (Rocketseat) 01/2022 ([github](https://github.com/pedropaulodf/ignite-ignews)) [Ver online](https://ignews-pedropaulodf.vercel.app/)
-- [x] Site institucional Quality Systems 11/2021 ([github](https://github.com/pedropaulodf/sitequalityport)) ([figma](https://www.figma.com/file/Bh8OO6OQ2R9niuzw6igtvY/Site-Quality)) [Ver online](https://sitequalityportfolio.vercel.app/)
-- [x] Coodesh front-end challenge 08/2021 ([github](https://github.com/pedropaulodf/coodesh-challenge)) ([figma](https://www.figma.com/file/D8LqvUJbPD4lDKKm42bqHr/Coodesh-Front-end-Challenge?node-id=0%3A1)) [Ver online](https://coodesh-front-end-challenge.vercel.app/)
+- [x] Projeto World Trip (Rocketseat) 03/2022 ([github](https://github.com/pedropaulodf/ignite-worldtrip)) [ONLINE ↗](https://ignite-worldtrip-one.vercel.app/)
+- [x] Projeto dashgo. (Rocketseat) 02/2022 ([github](https://github.com/pedropaulodf/ignite-dashgo)) [ONLINE ↗](https://dashgo-ignite-pedropaulodf.vercel.app/)
+- [x] Projeto Ig.news (Rocketseat) 01/2022 ([github](https://github.com/pedropaulodf/ignite-ignews)) [ONLINE ↗](https://ignews-pedropaulodf.vercel.app/)
+- [x] Site institucional Quality Systems 11/2021 ([github](https://github.com/pedropaulodf/sitequalityport)) ([figma](https://www.figma.com/file/Bh8OO6OQ2R9niuzw6igtvY/Site-Quality)) [ONLINE ↗](https://sitequalityportfolio.vercel.app/)
+- [x] Coodesh front-end challenge 08/2021 ([github](https://github.com/pedropaulodf/coodesh-challenge)) ([figma](https://www.figma.com/file/D8LqvUJbPD4lDKKm42bqHr/Coodesh-Front-end-Challenge?node-id=0%3A1)) [ONLINE ↗](https://coodesh-front-end-challenge.vercel.app/)
 
 ### 💻 React.js, Node e MongoDB • FullStack 
-- [x] Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [Ver online](https://desafio-onesight.vercel.app/)
-- [x] Projeto final Bootcamp IGTI Fullstack ([github](https://github.com/pedropaulodf/igti-fullstack-projeto-final-react)) [Ver online](https://igti-fullstack-projeto-final-react.vercel.app/)
+- [x] Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [ONLINE ↗](https://desafio-onesight.vercel.app/)
+- [x] Projeto final Bootcamp IGTI Fullstack ([github](https://github.com/pedropaulodf/igti-fullstack-projeto-final-react)) [ONLINE ↗](https://igti-fullstack-projeto-final-react.vercel.app/)
 
 ### 🖥️ Vue 
 - [x] Projeto em VUE Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-vue-petshop))
