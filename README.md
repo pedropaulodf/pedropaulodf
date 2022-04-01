@@ -42,6 +42,7 @@
 - [x] NLW#2 • Proffy Web ([github](https://github.com/pedropaulodf/nlw2-omnistack-proffy))
 
 ### 💻 React.js com Next.js 
+- [x] Projeto upfi (Rocketseat) 03/2022 ([github](https://github.com/pedropaulodf/ignite-upfi-desafio)) [ONLINE ↗](https://ignite-upfi-desafio-pedropaulodf.vercel.app/)
 - [x] Projeto Next Authentication (Rocketseat) 03/2022 ([github](https://github.com/pedropaulodf/next-autenticacao-jwt))
 - [x] Projeto World Trip (Rocketseat) 03/2022 ([github](https://github.com/pedropaulodf/ignite-worldtrip)) [ONLINE ↗](https://ignite-worldtrip-one.vercel.app/)
 - [x] Projeto dashgo. (Rocketseat) 02/2022 ([github](https://github.com/pedropaulodf/ignite-dashgo)) [ONLINE ↗](https://dashgo-ignite-pedropaulodf.vercel.app/)
