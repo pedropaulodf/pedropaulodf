@@ -1,9 +1,10 @@
+<img align='right' src="https://raw.githubusercontent.com/pedropaulodf/diversos/master/.github/cover-image4.png">
+ 
 # Ôpa! 👋
-  
+
 - [ ] 🚀 Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
 - [ ] 🌱 Estudando e praticando: React Native, React.js e Typescript
 
-<img align='right' src="https://raw.githubusercontent.com/pedropaulodf/diversos/master/.github/github-image.png">
 
 [<img src="https://img.shields.io/badge/site-242424?style=flat&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
