@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/pedropaulodf/diversos/master/.github/cover-image4.png">
+<img align='right' src="https://raw.githubusercontent.com/pedropaulodf/diversos/master/.github/cover-image5.png">
  
 # Ôpa! 👋
 
