@@ -5,6 +5,14 @@
 - [ ] 🚀 Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
 - [ ] 🌱 Estudando e praticando: React Native, React.js e Typescript
 
+### # BIO
+Sou uma pessoa que gosta bastante de desenvolver soluções e mais ainda de vê-las rodando, com pessoas reais as utilizando. A satisfação de ver que o que desenvolvi realmente está sendo útil para muitas pessoas, é muito gratificante.
+
+Depois de trabalhar com outras tecnologias, nos últimos anos, me apaixonei pelo ReactJS e mais ainda pelo React Native, onde fiquei mais perto do que gosto de fazer, desenvolver aplicativos mobile e web.
+
+Nas experiências profissionais, absorvi fortes noções em UI e UX, e isso me ajuda no desenvolvimento de aplicações Web e Mobile. Apesar de não ser designer, gosto muito de layouts bonitos e funcionais e tento aplicar esses princípios em tudo que desenvolvo e desenho.
+
+Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, praticando com novos projetos pessoais e profissionais.
 
 [<img src="https://img.shields.io/badge/site-242424?style=flat&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
