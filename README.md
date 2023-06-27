@@ -61,7 +61,7 @@ Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, pra
 - [x] Coodesh front-end challenge 08/2021 ([github](https://github.com/pedropaulodf/coodesh-challenge)) ([figma](https://www.figma.com/file/D8LqvUJbPD4lDKKm42bqHr/Coodesh-Front-end-Challenge?node-id=0%3A1)) [ONLINE ↗](https://coodesh-front-end-challenge.vercel.app/)
 
 ### 💻 React.js, Node e MongoDB • FullStack 
-- [x] Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight)) [ONLINE ↗](https://desafio-onesight.vercel.app/)
+- [x] Desafio Onesight [p/ entrevista] ([github](https://github.com/pedropaulodf/desafio-onesight))
 - [x] Projeto final Bootcamp IGTI Fullstack ([github](https://github.com/pedropaulodf/igti-fullstack-projeto-final-react)) [ONLINE ↗](https://igti-fullstack-projeto-final-react.vercel.app/)
 
 ### 🖥️ Vue 
