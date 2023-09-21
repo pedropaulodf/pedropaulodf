@@ -1,6 +1,6 @@
 <img align='right' src="https://raw.githubusercontent.com/pedropaulodf/diversos/master/.github/cover-image5.png">
  
-# E aí, bão? 👋
+# Ôpa! Tudo bem? 👋
 
 - [ ] 🚀 Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
 - [ ] 🌱 Estudando e praticando: React Native, React.js e Typescript
