@@ -3,7 +3,7 @@
 # Ôpa! Tudo bem? 👋
 
 - [ ] 🚀 Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
-- [ ] 🌱 Estudando e praticando: React Native, React.js e Typescript
+- [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript
 
 ### # BIO
 Sou uma pessoa que gosta bastante de desenvolver soluções e mais ainda de vê-las rodando, com pessoas reais as utilizando. A satisfação de ver que o que desenvolvi realmente está sendo útil para muitas pessoas, é muito gratificante.
