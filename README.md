@@ -2,7 +2,7 @@
  
 # Ôpa! 👋
 
-- [ ] 🚀 Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
+- [ ] 🚀 Ex-Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
 - [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript
 
 ### # BIO
