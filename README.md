@@ -2,7 +2,7 @@
  
 # Ôpa! 👋
 
-- [ ] 💻 Atualmente cursando Análise e Desenvolvimento de Sistemas na Unopar (término em 2026)
+- [ ] 💻 Atualmente Trabalhando na área como Dev Pleno
 - [ ] 🚀 Ex-Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
 - [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript
 
