@@ -2,7 +2,7 @@
  
 # Ôpa! 👋
 
-- [ ] 💻 Atualmente Trabalhando na área como Dev Pleno
+- [ ] 💻 Atualmente Trabalhando na área como Dev Pleno (4+ anos de experiência)
 - [ ] 🚀 Ex-Aluno Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
 - [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript
 
