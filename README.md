@@ -40,10 +40,10 @@ Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, pra
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />](#) 
 
-# Projetos recentes 2023-2025:
+# Projetos recentes 2023 - 2025:
 Trabalhando em projetos internos da empresa onde trabalho atualmente. Projetos esses desenvolvidos, principalmente, em React Native e ReactJS. Eu mesmo crio os designs no Figma para depois começar o desenvolvimento de uma forma mais objetiva e ágil.
 
-# Projetos 2021-2023:
+# Projetos 2021 - 2023:
 
 ### 📱Apps: React Native, com Expo (Bare)
 - [x] App TJ Droid • [Projeto pessoal Open Source] • ([Figma](https://www.figma.com/file/GYGs01Krnqj65ccpwY0pEn/App-TJ-Droid-1.0?node-id=0%3A1)) ([github](https://github.com/pedropaulodf/tjdroid)) | [LOJA ↗](https://play.google.com/store/apps/details?id=dev.pedropaulo.tjdroid)
