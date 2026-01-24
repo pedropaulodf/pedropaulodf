@@ -3,7 +3,7 @@
 # Ôpa! 👋
 
 - [ ] 💻 Atualmente Trabalhando na área como Dev Pleno (5+ anos de experiência)
-- [ ] 🚀 Alumni Ignite da Rocketseat ReactJS (concluído) e React Native (desde 08/2021)
+- [ ] 🚀 Alumni Ignite da Rocketseat ReactJS (concluído) e React Native
 - [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript
 
 ### # BIO
@@ -13,7 +13,7 @@ Depois de trabalhar com outras tecnologias, nos últimos anos, me apaixonei pelo
 
 Nas experiências profissionais, absorvi fortes noções em UI e UX, e isso me ajuda no desenvolvimento de aplicações Web e Mobile. Apesar de não ser designer, gosto muito de layouts bonitos e funcionais e tento aplicar esses princípios em tudo que desenvolvo e desenho.
 
-Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, praticando com novos projetos pessoais e profissionais.
+Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, praticando com novos projetos pessoais e profissionais diariamente.
 
 [<img src="https://img.shields.io/badge/site-242424?style=flat&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
