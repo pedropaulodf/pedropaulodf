@@ -40,7 +40,7 @@ Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, pra
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />](#) 
 
-# Projetos recentes 2023 - 2025:
+# Projetos recentes 2023 - 2026:
 Trabalhando em projetos internos da empresa onde trabalho atualmente. Projetos esses desenvolvidos, principalmente, em React Native e ReactJS. Eu mesmo crio os designs no Figma para depois começar o desenvolvimento de uma forma mais objetiva e ágil.
 
 # Projetos 2021 - 2023:
