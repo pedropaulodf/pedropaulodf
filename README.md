@@ -71,4 +71,4 @@ Trabalhando em projetos internos da empresa do meu trabalho atual. Projetos dese
 ### 🖥️ Vue 
 - [x] Projeto em VUE Bootcamp IGTI Frontend ([github](https://github.com/pedropaulodf/igti-frontend-vue-petshop))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaulodf&layout=compact&theme=dark&custom_title=Linguagens%20mais%20utilizadas:)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pedropaulodf&layout=compact&theme=dark&custom_title=Linguagens%20mais%20utilizadas:)](https://github.com/anuraghazra/github-readme-stats)
