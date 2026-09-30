@@ -2,9 +2,9 @@
  
 # Ôpa! 👋
 
-- [ ] 💻 Atualmente Trabalhando na área como Dev Pleno (5+ anos de experiência)
-- [ ] 🚀 Alumni Ignite da Rocketseat ReactJS (concluído) e React Native
-- [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript
+- [ ] 💻 Atualmente Trabalhando na área como Dev Pleno (5+ anos de experiência).
+- [ ] 🚀 Alumni Ignite da Rocketseat ReactJS (concluído) e React Native.
+- [ ] 🌱 Estudando, trabalhando e praticando: React Native, React.js e Typescript.
 
 ### # BIO
 Sou uma pessoa que gosta bastante de desenvolver soluções e mais ainda de vê-las rodando, com pessoas reais as utilizando. A satisfação de ver que o que desenvolvi realmente está sendo útil para muitas pessoas, é muito gratificante.
@@ -15,8 +15,8 @@ Nas experiências profissionais, absorvi fortes noções em UI e UX, e isso me a
 
 Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, praticando com novos projetos pessoais e profissionais diariamente.
 
-[<img src="https://img.shields.io/badge/site-242424?style=flat&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pedropaulodf)
+[<img src="https://img.shields.io/badge/Portfolio-242424?style=flat&logo=pandora&logoColor=white" />](https://portfolio.pedropaulo.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pedropaulodf)
 [<img src="https://img.shields.io/badge/Behance-0054F7?style=flat&logo=behance&logoColor=white" />](https://www.behance.net/pedropaulodev)
 
 ### # Tech Stack:
@@ -27,7 +27,7 @@ Atualmente estou mergulhado em React Native e ReactJS, ambos com Typescript, pra
 [<img src="https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />](#) 
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />](#) 
-
+[![AI](https://img.shields.io/badge/Artificial%20Intelligence-00C4CC?logo=claude&logoColor=fff)](#)
 
 ### # Design Tools:
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />](#) 
